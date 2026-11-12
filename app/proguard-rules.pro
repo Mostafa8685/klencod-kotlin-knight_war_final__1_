@@ -1,0 +1,2 @@
+-keep class com.clashangprpr.app.** { *; }
+-dontwarn com.clashangprpr.app.**
